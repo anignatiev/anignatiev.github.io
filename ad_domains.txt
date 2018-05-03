@@ -1,2 +1,13 @@
 # [General]
-127.0.0.1 d1.cdn.adbetnet.com
+127.0.0.1	d1.cdn.adbetnet.com
+127.0.0.1	recreativ.ru
+127.0.0.1	adbetnet.com
+127.0.0.1	adserv.adbetnet.com
+127.0.0.1	n1.cdn.adbetnet.com
+127.0.0.1	n2.cdn.adbetnet.com
+127.0.0.1	n3.cdn.adbetnet.com
+127.0.0.1	imgg-cdn.marketgid.com
+127.0.0.1	1xbet.com
+127.0.0.1	sportingbet.com
+127.0.0.1	planetofbets.ng
+127.0.0.1	planetofbets.com 
