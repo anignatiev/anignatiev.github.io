@@ -1,4 +1,5 @@
 # [General]
+127.0.0.1	n161adserv.com
 127.0.0.1	d1.cdn.adbetnet.com
 127.0.0.1	recreativ.ru
 127.0.0.1	adbetnet.com
